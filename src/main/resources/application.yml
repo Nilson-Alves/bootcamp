@@ -17,6 +17,6 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto Bootcamp - Digital Innovation + Banco Santander.
-  version: 1.0
+  description: Projeto Bootcamp - Digital Innovation + Banco Santander - Version Backend.
+  version: 2.0
 
